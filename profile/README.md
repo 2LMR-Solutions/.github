@@ -45,7 +45,9 @@ Nosso foco está no desenvolvimento de soluções eficientes e escaláveis, util
   <strong>Luciano Franzoi Filho</strong><br>
   Atualmente, trabalho em uma empresa familiar e estou cursando Engenharia de Software.
 </p>
-
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,c,php" width="150"/>
+  </a>
 
 <p align="left">
   💌 Entre em contato: ⤵️
