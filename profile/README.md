@@ -103,9 +103,8 @@ Nosso foco está no desenvolvimento de soluções eficientes e escaláveis, util
  <img src="https://avatars.githubusercontent.com/u/142946829?v=4" alt="Rafaela Gonzatto" min-width="400px" max-width="150px" width="150px" align="left">
 
 <p align="left"> 
-  <strong>Rafaela Gonzatto</strong><br>
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  <strong>Rafaela Gonzattoo</strong><br>
+  Atualmente trabalhando em Robert Bosch LTDA, estudando Engenharia de Software
 </p>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,py,js,figma,html,css" width="150"/>
