@@ -13,8 +13,7 @@ Nosso foco está no desenvolvimento de soluções eficientes e escaláveis, util
 
 <p align="left"> 
   <strong>Leonardo de Lima Póss</strong><br>
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  Olá eu sou Leonardo, atualmente trabalho como estagiário de QA na positivo no setor de POS (Pontos de Vendas), além de cursar engenharia de Software
 </p>
 <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" width="150"/>
